@@ -4,6 +4,7 @@
     "description": "the microservice book",
     "language": "zh-hans",
     "gitbook": "3.2.3",
+    "root":"src",
     "styles": {
         "website": "./styles/website.css"
     },
@@ -20,7 +21,7 @@
         "splitter",
         "expandable-chapters-small",
         "anchors",
-
+        "toc",
         "github",
         "github-buttons",
         "donate",
